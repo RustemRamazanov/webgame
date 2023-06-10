@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap');
+
+body{
+    text-align: center;
+    background: black;
+}
+.container{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    background: rgb(1, 2, 30);
+    line-height: 24px;
+    word-spacing: 4px;
+    color: rgb(60, 249, 98);
+    max-width: 1250px;
+    margin: auto;  /*расположение по центру */
+    padding: 20 px;  
+}
+.card{
+    background: rgb(53, 50, 50);
+    padding: 1px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.form-group{
+    font-size: 21px;
+}
+.form-group input{
+    size: 40px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.btn{
+    line-height: 24px;
+    margin: 5;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background: rgb(213, 184, 20);
+}
+a{
+    color: rgb(225, 199, 49);  
+    font-size: 21px;
+}
